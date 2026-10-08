@@ -1,0 +1,1 @@
+# okx-exchange-safety-check
